@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../javascript-game"
+		},
+		{
+			"path": "../cart-quntity"
+		},
+		{
+			"path": "../day4js"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "javascript-game"
+	}
+}
